@@ -1,0 +1,9 @@
+---
+applications:
+- name: go-yaas-example
+  buildpack: go_buildpack
+  instances: 1
+  memory: 512M
+  host: go-yaas-example
+  domain: cf1.hybris.com
+  command: 
