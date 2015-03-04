@@ -1,2 +1,2 @@
-web: go-heroku-example
+web: go-yaas-example
 worker: worker
